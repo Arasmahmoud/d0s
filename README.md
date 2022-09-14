@@ -7,7 +7,7 @@ powerfull dos attack tools
 
 
 
-# (ALM TECH , ARAS MAHMOUD ) We are not responsible for misuse of this tool. This tool was written to test your site's endurance and improve site security
+# (ALM TECH , ARAS MAHMOUD ) We are not responsible for misuse of this tool. This tool was written to test your site and improve site security
 
 
 - thanks and enjoy BY ALM TECH ( ARAS MAHMOUD )
